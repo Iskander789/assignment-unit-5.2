@@ -1,0 +1,46 @@
+header {
+    background-color: #333; /* dark background color */
+    color: #fff; /* light text color */
+    text-align: center; /* center align text */
+  }
+  
+  main {
+    background-color: #f2f2f2; /* light grey background color */
+    padding: 1em; /* padding around the content */
+  }
+  
+  body {
+    margin: 0; /* remove default margin */
+  }
+  
+  /* Using background-image property */
+  body {
+    background-image: url('vinyl.png'); /* assuming record.png is in the same directory as the HTML file */
+    background-repeat: repeat; /* repeat background image */
+  }
+  
+  h1 {
+    background-color: lightblue; /* Set background color for <p> */
+    padding: 10px; /* Add padding for better readability */
+    text-align: center; /* Center-align text */
+    font-family:'Courier New', Courier, monospace
+  }
+
+  h2{
+    
+    padding: 10px; /* Add padding for better readability */
+    text-align: center; /* Center-align text */
+    font-family:'Courier New', Courier, monospace
+  }
+  
+  ul {
+    background-color: rgb(161, 131, 79); /* Set background color for <ul> */
+    padding: 10px; /* Add padding for better readability */
+    list-style-type: none; /* Remove default list style */
+  }
+
+  main {
+    background-color: rgb(157, 153, 146); /* Set background color for <ul> */
+    padding: 10px; /* Add padding for better readability */
+    list-style-type: none; /* Remove default list style */
+  }
